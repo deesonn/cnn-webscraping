@@ -1,3 +1,7 @@
+'''
+Name: Daniel Nguyen
+'''
+
 # Function convert celsius to fahrenheit
 def celsiusToFahrenheit(c):
     # To fahrenheit formula
